@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // eslint-disable-next-line
-  reactStrictMode: true,
+  reactStrictMode: true
 }
 
 module.exports = nextConfig
