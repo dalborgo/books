@@ -8,7 +8,7 @@
         "imports": "always-multiline",
         "exports": "always-multiline",
         "arrays": "always-multiline",
-        "functions": "never"
+        "functions": "always-multiline"
       }
     ]
   }
